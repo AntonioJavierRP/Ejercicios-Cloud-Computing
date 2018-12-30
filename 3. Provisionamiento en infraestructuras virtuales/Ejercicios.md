@@ -7,4 +7,18 @@
 
 ### Ejercicio 2. Instalar los prerrequisitos para ejecutar alguna aplicación propia (la del proyecto de la asignatura u otra) usando Ansible.
 
+
+Los pre-requisitos se encuentran en el playbook de mi proyecto.
+
+
+
 ### Ejercicio 3. Desplegar la aplicación que se haya usado anteriormente con todos los módulos necesarios usando un playbook de Ansible.
+
+[Playbook creado](https://github.com/AntonioJavierRP/Cloud-Computing-Project/blob/master/provision/playbook.yaml)
+
+
+
+
+
+
+
